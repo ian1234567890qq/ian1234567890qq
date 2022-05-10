@@ -1,0 +1,4 @@
+- 👋 meu nome é ian
+- estou interessado em programaçao
+- gosto de rpg
+- 
